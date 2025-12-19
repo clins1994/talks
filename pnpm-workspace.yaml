@@ -1,5 +1,10 @@
+catalogMode: prefer
+shellEmulator: true
+trustPolicy: no-downgrade
+
 packages:
   - '*/src'
+
 catalog:
   '@antfu/eslint-config': ^6.7.1
   '@eslint-react/eslint-plugin': ^2.3.13
