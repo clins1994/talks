@@ -49,9 +49,7 @@ Working at {NuxtLabs}<br>
 <!--
 So first, let me introduce myself, my name is Anthony Fu.
 
-[click] And, Hi! You will see some cute illustrations like this avatar drawn by my girlfriend Inès, thanks to her!
-
-So, my name is Anthon Fu, and...
+[click] And, Hi! My name is Anthon Fu, and...
 -->
 
 ---

@@ -34,7 +34,7 @@ monacoTypesIgnorePackages:
 <img src="/cityjs-cover.jpg" w-full h-full object-cover />
 
 <!--
-Hello everyone, I am super happy to be here! This is actually my first time visiting Greece, and we just came back from a short vacation in Santorini with my girlfriend. Greece is so beautiful and we are loving it already! It's my great pleasure to be here. Thanks to the organizers, and all of you for being here.
+Hello everyone, I am super happy to be here! This is actually my first time visiting Greece and it's so beautiful! It's my great pleasure to be here. Thanks to the organizers, and all of you for being here.
 -->
 
 ---
